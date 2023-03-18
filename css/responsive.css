@@ -148,6 +148,9 @@
 }
 
 @media (max-width: 575px) {
+    .logo img {
+        max-width: 220px;
+    }
     .header {
         padding: 30px 15px;
     }
