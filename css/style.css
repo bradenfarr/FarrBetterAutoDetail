@@ -1055,9 +1055,7 @@ ul.img_icon li {
 
 /** Services Styles **/
 
-.text-bg h5 {
-     padding-top: 50px;
-     padding-bottom: 50px;
+.text-bg .dark {
      color: black;
      font-size: 40px;
 }
@@ -1076,6 +1074,11 @@ ul.img_icon li {
 .banner_main .features li {
      color: black;
      font-size: 20px;
+}
+
+.banner_main .flexrow {
+     display: flex;
+     align-items: row;
 }
 
 /**Book Appointment Styles **/
