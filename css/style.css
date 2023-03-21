@@ -1086,3 +1086,13 @@ ul.img_icon li {
 .banner_main .bookappt {
      height: 1200px;
 }
+
+.location {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     color: #301e64;
+     font-weight: bold;
+     font-size: 40px;
+     line-height: 50px;
+}
